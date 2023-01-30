@@ -1,0 +1,11 @@
+C:\Users\karen\Documents\NBCC-QA\IntroProgram\Prog2023\Projects\LegalAge\LegalAge\bin\Debug\LegalAge.exe.config
+C:\Users\karen\Documents\NBCC-QA\IntroProgram\Prog2023\Projects\LegalAge\LegalAge\bin\Debug\LegalAge.exe
+C:\Users\karen\Documents\NBCC-QA\IntroProgram\Prog2023\Projects\LegalAge\LegalAge\bin\Debug\LegalAge.pdb
+C:\Users\karen\Documents\NBCC-QA\IntroProgram\Prog2023\Projects\LegalAge\LegalAge\obj\Debug\LegalAge.csproj.AssemblyReference.cache
+C:\Users\karen\Documents\NBCC-QA\IntroProgram\Prog2023\Projects\LegalAge\LegalAge\obj\Debug\LegalAge.csproj.SuggestedBindingRedirects.cache
+C:\Users\karen\Documents\NBCC-QA\IntroProgram\Prog2023\Projects\LegalAge\LegalAge\obj\Debug\LegalAge.Form1.resources
+C:\Users\karen\Documents\NBCC-QA\IntroProgram\Prog2023\Projects\LegalAge\LegalAge\obj\Debug\LegalAge.Properties.Resources.resources
+C:\Users\karen\Documents\NBCC-QA\IntroProgram\Prog2023\Projects\LegalAge\LegalAge\obj\Debug\LegalAge.csproj.GenerateResource.cache
+C:\Users\karen\Documents\NBCC-QA\IntroProgram\Prog2023\Projects\LegalAge\LegalAge\obj\Debug\LegalAge.csproj.CoreCompileInputs.cache
+C:\Users\karen\Documents\NBCC-QA\IntroProgram\Prog2023\Projects\LegalAge\LegalAge\obj\Debug\LegalAge.exe
+C:\Users\karen\Documents\NBCC-QA\IntroProgram\Prog2023\Projects\LegalAge\LegalAge\obj\Debug\LegalAge.pdb
