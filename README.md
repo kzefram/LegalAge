@@ -25,15 +25,15 @@ In GitHub, click on the fork button in between the Unwatch and Star buttons
 
 2. Grab your SSH clone address:
 
-Click on the green '<> Code' button and make sure you are in the local tab and SSH. Copy the address that shows there
+Click on the green '<> Code' button and make sure you are in the local tab and SSH. Copy the address that it shows there
 
-3. In Git, copy and paste the following code to clone the repository on your local machine:
+3. In Git Bash, copy and paste the following code to clone the repository on your local machine:
 
-git clone <your-clone-address>
+git clone 'your-clone-address'
 
 4. The go into that folder:
 
-cd <folder-name>
+cd 'folder-name'
 
 5. Then make sure you are the main branch:
 
@@ -45,7 +45,7 @@ code .
 
 7. Run the program:
 
-Click on the run/play button in the upper right hand corner of your text editor
+Click on the run/play button in the upper right hand corner of VSCode
 
 ## Usage
 
